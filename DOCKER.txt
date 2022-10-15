@@ -1,6 +1,4 @@
 #COMANDOS MONGODB
 docker create [OPTIONS] IMAGE [COMMAND] [ARG...]
 docker run -d -v ruta:ruta contenedor -p PUERTO nombremaquina
-
-
-mongoimport --db dbName --collection collectionName --file inputFile
+--
